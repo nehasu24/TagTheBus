@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\NEHA\\.android\\build-cache\\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\NEHA\\.android\\build-cache\\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\NEHA\\.android\\build-cache\\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\NEHA\\.android\\build-cache\\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\NEHA\\.android\\build-cache\\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\NEHA\\.android\\build-cache\\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

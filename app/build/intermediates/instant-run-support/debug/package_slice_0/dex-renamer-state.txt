@@ -1,0 +1,4 @@
+#Thu May 04 22:10:06 CEST 2017
+base.0=C\:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=C\:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

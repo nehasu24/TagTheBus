@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fc8858ca2f0f49e8056ed48e18c1e07189155abc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\b7096d4d82e5c388735674ad33f09b937f00b161\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39e07a13b8822cf01140c4064ae73c3bc058ddf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\422834dd94008ada5d015af58f411688e5a4996c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e25bf5bc95ac7356e9fc80b828bf2184fe69a6e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4412bd7665d76f2588ddecfde7ce2349b0e3a810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\4f5d32275dc5522bf9acb52345fc9db3b09339ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f5208026174fa31202f8c0249d67a14ff0d6fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\534894362c404c19cb504fb54dedb23f69875fe1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e1d3ae976db3e7eba3c0506d310bbb6ca4a11c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_766267243c972f7fb663c289be650333c01828dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\db5a434c5bca6faff4cf3f56460736a54bb627c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5bc7b66a7264552dadea919eea43e1b709d3446\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\fcb6b0b65bbda2f9dc59137d74fb601f114d78e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbc01da1c34fbf68449390d4b6ea9f8e435b3781\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\4b9341ca2947639790860c8c48f6c90c90e2fe40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faf7aefac225859f29b97bf78adcb49be18d256c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\a6236292f8d751c9458cca5d08aace3a3bc14969\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cecb0c6302d3b6fed8c5119d51b53b3789a526a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\74a549e9aef463e70190b93c106fb7166eba51b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3efd4c3366c33082e73b76ef14b197d2a4189269\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\d68311613172ad6d20ddf479595f371ffead7b65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9efd1cf27c9e7779196e6ef731815dffd1dc0ab8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\9efda9e43c54b7f2e43c35c001db8a453c3f34b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71229436db69b5ee8b92fac55977f1cbe4a1c77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\.android\build-cache\9b7bc85a85697a1ee18f73fed7a910062873feb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f2822226fad61942fb01e49565b02a525f59d13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56140690e07143a9b5810810f7d7be9308540d9a">
+        <dex dex="C:\Users\NEHA\Desktop\android-testing-master\ui\uiautomator\TagTheBus\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0943cb95be3c966220db3286319bb6e66c89dc21\classes.dex" />
+    </item>
+
+</items>

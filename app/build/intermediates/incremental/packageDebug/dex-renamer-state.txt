@@ -1,0 +1,7 @@
+#Sun May 07 21:34:37 CEST 2017
+base.0=C\:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fc8858ca2f0f49e8056ed48e18c1e07189155abc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0943cb95be3c966220db3286319bb6e66c89dc21\\classes.dex
+base.1=C\:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0943cb95be3c966220db3286319bb6e66c89dc21
+file.0=C\:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fc8858ca2f0f49e8056ed48e18c1e07189155abc\\classes.dex

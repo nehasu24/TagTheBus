@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\NEHA\\Desktop\\android-testing-master\\ui\\uiautomator\\TagTheBus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\NEHA\\.android\\build-cache\\9605d10ee4ba5ba344002266f4a9e1209e6aea4b\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
